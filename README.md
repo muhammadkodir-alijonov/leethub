@@ -23,5 +23,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/0394-decode-string) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+## String
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/0394-decode-string) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
