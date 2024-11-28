@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/0024-swap-nodes-in-pairs) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Stack
 |  |
@@ -32,5 +33,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/0024-swap-nodes-in-pairs) |
 | [0394-decode-string](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
