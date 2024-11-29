@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/0136-single-number) |
 | [1972-rotating-the-box](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/1972-rotating-the-box) |
 ## Two Pointers
 |  |
@@ -42,5 +43,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
