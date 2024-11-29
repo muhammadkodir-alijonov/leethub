@@ -35,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/0024-swap-nodes-in-pairs) |
 | [0394-decode-string](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/0394-decode-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/0338-counting-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
