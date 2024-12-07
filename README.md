@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/0049-group-anagrams) |
 | [0136-single-number](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/0136-single-number) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1972-rotating-the-box](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/1972-rotating-the-box) |
 | [2232-adding-spaces-to-a-string](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/2232-adding-spaces-to-a-string) |
 ## Two Pointers
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2232-adding-spaces-to-a-string](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/2232-adding-spaces-to-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 <!---LeetCode Topics End-->
