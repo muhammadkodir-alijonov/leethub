@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/0049-group-anagrams) |
 | [0394-decode-string](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/0394-decode-string) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2232-adding-spaces-to-a-string](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
@@ -80,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2164-two-best-non-overlapping-events](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/2164-two-best-non-overlapping-events) |
+## Math
+|  |
+| ------- |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/1920-determine-color-of-a-chessboard-square) |
 <!---LeetCode Topics End-->
