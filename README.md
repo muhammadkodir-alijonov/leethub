@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-rotating-the-box](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/1972-rotating-the-box) |
 | [2164-two-best-non-overlapping-events](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/2164-two-best-non-overlapping-events) |
 | [2232-adding-spaces-to-a-string](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/2232-adding-spaces-to-a-string) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,15 +64,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/0049-group-anagrams) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/0049-group-anagrams) |
 | [2164-two-best-non-overlapping-events](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/2164-two-best-non-overlapping-events) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Simulation
 |  |
 | ------- |
 | [2232-adding-spaces-to-a-string](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/2232-adding-spaces-to-a-string) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -81,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2164-two-best-non-overlapping-events](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/2164-two-best-non-overlapping-events) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Math
 |  |
 | ------- |
