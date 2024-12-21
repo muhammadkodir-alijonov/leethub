@@ -13,8 +13,8 @@ class Solution:
             for j in range(cols):
                 if grid[i][j] == '1' and (i, j) not in visited:
                     island_count += 1
+                    visited.add((i, j))
                     queue = deque([(i, j)])
-                    grid[i][j] = '0'
 
                     while queue:
                         x, y = queue.popleft()
@@ -24,6 +24,6 @@ class Solution:
                             if 0 <= nx < rows and 0 <= ny < cols:
                                 if grid[nx][ny] == '1' and (nx, ny) not in visited:
                                     queue.append((nx, ny))
-                                    grid[nx][ny] = '0'
+                                    visited.add((nx, ny))
 
         return island_count
