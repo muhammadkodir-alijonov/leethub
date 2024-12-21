@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/0049-group-anagrams) |
 | [0136-single-number](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/0136-single-number) |
+| [0200-number-of-islands](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/0200-number-of-islands) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1972-rotating-the-box](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/1972-rotating-the-box) |
 | [2164-two-best-non-overlapping-events](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/2164-two-best-non-overlapping-events) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/0200-number-of-islands) |
 | [1972-rotating-the-box](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/1972-rotating-the-box) |
 ## Linked List
 |  |
@@ -98,12 +100,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/0112-path-sum) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
