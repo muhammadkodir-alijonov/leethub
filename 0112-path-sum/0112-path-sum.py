@@ -10,4 +10,14 @@ class Solution:
             return False
         if not root.left and not root.right:
             return targetSum == root.val
-        return self.hasPathSum(root.left, targetSum - root.val) or self.hasPathSum(root.right, targetSum - root.val)
+        seen = [(root, root.val)]
+        queue = [(root, root.val)]
+        while queue:
+            node, total = queue.pop()
+            if not node.left and not node.right and total == targetSum:
+                return True
+            if node.left:
+                queue.append((node.left, total + node.left.val))
+            if node.right:
+                queue.append((node.right, total + node.right.val))
+        return False
