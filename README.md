@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/0024-swap-nodes-in-pairs) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/muhammadkodir-alijonov/leethub/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Stack
 |  |
@@ -99,10 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/muhammadkodir-alijonov/leethub/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/muhammadkodir-alijonov/leethub/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/muhammadkodir-alijonov/leethub/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/muhammadkodir-alijonov/leethub/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0200-number-of-islands](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/muhammadkodir-alijonov/leethub/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/muhammadkodir-alijonov/leethub/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/muhammadkodir-alijonov/leethub/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0200-number-of-islands](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
@@ -119,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/muhammadkodir-alijonov/leethub/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/muhammadkodir-alijonov/leethub/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/muhammadkodir-alijonov/leethub/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Union Find
 |  |
 | ------- |
