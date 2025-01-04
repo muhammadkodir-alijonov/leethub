@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/0049-group-anagrams) |
 | [0394-decode-string](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/0394-decode-string) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/1920-determine-color-of-a-chessboard-square) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/muhammadkodir-alijonov/leethub/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2232-adding-spaces-to-a-string](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
@@ -63,10 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/0338-counting-bits) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/muhammadkodir-alijonov/leethub/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Hash Table
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/0049-group-anagrams) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/muhammadkodir-alijonov/leethub/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Sorting
 |  |
@@ -132,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/0200-number-of-islands) |
+## Prefix Sum
+|  |
+| ------- |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/muhammadkodir-alijonov/leethub/tree/master/2059-unique-length-3-palindromic-subsequences) |
 <!---LeetCode Topics End-->
