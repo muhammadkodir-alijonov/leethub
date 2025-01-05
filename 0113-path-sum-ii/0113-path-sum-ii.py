@@ -8,22 +8,17 @@ class TreeNode:
 
 class Solution:
     def pathSum(self, root: Optional[TreeNode], targetSum: int) -> List[List[int]]:
+        def dfs(node, current_sum, path):
+            if not node:
+                return
+            current_sum += node.val
+            path.append(node.val)
+            if not node.left and not node.right and current_sum == targetSum:
+                ans.append(path[:])
+            dfs(node.left, current_sum, path)
+            dfs(node.right, current_sum, path)
+            path.pop()
+
         ans = []
-        if not root:
-            return []
-        if not root.left and not root.right:
-            if targetSum == root.val:
-                return [[root.val]]
-            else:
-                return []
-        stack = [(root, root.val, [])]
-        while stack:
-            node, total, curr = stack.pop()
-            curr.append(node.val)
-            if not node.left and not node.right and total == targetSum:
-                ans.append(curr)
-            if node.left:
-                stack.append((node.left, total + node.left.val, curr.copy()))
-            if node.right:
-                stack.append((node.right, total + node.right.val, curr.copy()))
+        dfs(root, 0, [])
         return ans
