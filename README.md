@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/0008-string-to-integer-atoi) |
 | [0049-group-anagrams](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/0049-group-anagrams) |
 | [0394-decode-string](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/0394-decode-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/muhammadkodir-alijonov/leethub/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
