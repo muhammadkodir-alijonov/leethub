@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/muhammadkodir-alijonov/leethub/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/0338-counting-bits) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/muhammadkodir-alijonov/leethub/tree/master/0089-gray-code) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/1920-determine-color-of-a-chessboard-square) |
 ## Tree
 |  |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/muhammadkodir-alijonov/leethub/tree/master/0089-gray-code) |
 | [0113-path-sum-ii](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/0113-path-sum-ii) |
 ## Binary Search Tree
 |  |
