@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/2232-adding-spaces-to-a-string) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/muhammadkodir-alijonov/leethub/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/muhammadkodir-alijonov/leethub/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Two Pointers
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/2164-two-best-non-overlapping-events) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/muhammadkodir-alijonov/leethub/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/muhammadkodir-alijonov/leethub/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Simulation
 |  |
 | ------- |
@@ -211,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1942-primary-department-for-each-employee](https://github.com/muhammadkodir-alijonov/leethub/tree/master/1942-primary-department-for-each-employee) |
 | [2087-confirmation-rate](https://github.com/muhammadkodir-alijonov/leethub/tree/master/2087-confirmation-rate) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/muhammadkodir-alijonov/leethub/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Greedy
+|  |
+| ------- |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/muhammadkodir-alijonov/leethub/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 <!---LeetCode Topics End-->
