@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/muhammadkodir-alijonov/leethub/tree/master/0062-unique-paths) |
 | [0338-counting-bits](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/0338-counting-bits) |
 | [2164-two-best-non-overlapping-events](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/2164-two-best-non-overlapping-events) |
 ## Bit Manipulation
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/muhammadkodir-alijonov/leethub/tree/master/0062-unique-paths) |
 | [0089-gray-code](https://github.com/muhammadkodir-alijonov/leethub/tree/master/0089-gray-code) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/muhammadkodir-alijonov/leethub/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/1920-determine-color-of-a-chessboard-square) |
@@ -219,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/muhammadkodir-alijonov/leethub/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/muhammadkodir-alijonov/leethub/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
