@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0089-gray-code](https://github.com/muhammadkodir-alijonov/leethub/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/muhammadkodir-alijonov/leethub/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/0338-counting-bits) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/muhammadkodir-alijonov/leethub/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -228,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/muhammadkodir-alijonov/leethub/tree/master/0062-unique-paths) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/muhammadkodir-alijonov/leethub/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
