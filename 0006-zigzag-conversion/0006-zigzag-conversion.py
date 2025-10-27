@@ -6,20 +6,17 @@
 
 class Solution:
     def convert(self, s: str, numRows: int) -> str:
-        rows = [""] * numRows  # har bir qatordagi harflarni saqlash
-        cur_row = 0  # hozir qaysi qatordamiz
-        going_down = False  # pastga ketyapmizmi yoki yuqoriga?
-
         if numRows == 1:
             return s
-        for c in s:
-            rows[cur_row] += c  # shu qatorga harfni qo‘shamiz
+        arr = [''] * numRows
+        i = 0
+        d = 1
 
-            # yo‘nalishni o‘zgartirish
-            if cur_row == 0 or cur_row == numRows - 1:
-                going_down = not going_down  # tepa/pastni almashtiramiz
-
-            # qaysi qatorga o‘tish
-            cur_row += 1 if going_down else -1
-        
-        return ''.join(rows)
+        for char in s:
+            arr[i] += char
+            if i == 0:
+                d = 1
+            elif i == numRows - 1:
+                d = -1
+            i += d
+        return ''.join(arr)
