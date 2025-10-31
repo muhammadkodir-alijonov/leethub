@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/0049-group-anagrams) |
+| [0134-gas-station](https://github.com/muhammadkodir-alijonov/leethub/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/0200-number-of-islands) |
 | [0525-contiguous-array](https://github.com/muhammadkodir-alijonov/leethub/tree/master/0525-contiguous-array) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/muhammadkodir-alijonov/leethub/tree/master/0134-gas-station) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/muhammadkodir-alijonov/leethub/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Combinatorics
 |  |
