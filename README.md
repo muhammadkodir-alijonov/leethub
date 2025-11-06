@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/muhammadkodir-alijonov/leethub/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/0049-group-anagrams) |
 | [0134-gas-station](https://github.com/muhammadkodir-alijonov/leethub/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/0136-single-number) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/muhammadkodir-alijonov/leethub/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/0049-group-anagrams) |
 | [2164-two-best-non-overlapping-events](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/2164-two-best-non-overlapping-events) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/muhammadkodir-alijonov/leethub/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/muhammadkodir-alijonov/leethub/tree/master/0047-permutations-ii) |
 | [0089-gray-code](https://github.com/muhammadkodir-alijonov/leethub/tree/master/0089-gray-code) |
 | [0113-path-sum-ii](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/0113-path-sum-ii) |
 ## Binary Search Tree
