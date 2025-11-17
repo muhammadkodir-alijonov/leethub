@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/muhammadkodir-alijonov/leethub/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/0200-number-of-islands) |
+| [0289-game-of-life](https://github.com/muhammadkodir-alijonov/leethub/tree/master/0289-game-of-life) |
 | [0525-contiguous-array](https://github.com/muhammadkodir-alijonov/leethub/tree/master/0525-contiguous-array) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/muhammadkodir-alijonov/leethub/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/0200-number-of-islands) |
+| [0289-game-of-life](https://github.com/muhammadkodir-alijonov/leethub/tree/master/0289-game-of-life) |
 | [1972-rotating-the-box](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/1972-rotating-the-box) |
 | [2145-grid-game](https://github.com/muhammadkodir-alijonov/leethub/tree/master/2145-grid-game) |
 ## Linked List
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0289-game-of-life](https://github.com/muhammadkodir-alijonov/leethub/tree/master/0289-game-of-life) |
 | [2232-adding-spaces-to-a-string](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/2232-adding-spaces-to-a-string) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Binary Search
