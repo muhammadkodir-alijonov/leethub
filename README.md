@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/muhammadkodir-alijonov/leethub/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/muhammadkodir-alijonov/leethub/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3531-count-covered-buildings](https://github.com/muhammadkodir-alijonov/leethub/tree/master/3531-count-covered-buildings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/muhammadkodir-alijonov/leethub/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/muhammadkodir-alijonov/leethub/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3531-count-covered-buildings](https://github.com/muhammadkodir-alijonov/leethub/tree/master/3531-count-covered-buildings) |
 ## Sorting
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/muhammadkodir-alijonov/leethub/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/muhammadkodir-alijonov/leethub/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3531-count-covered-buildings](https://github.com/muhammadkodir-alijonov/leethub/tree/master/3531-count-covered-buildings) |
 ## Simulation
 |  |
 | ------- |
