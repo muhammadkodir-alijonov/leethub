@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/muhammadkodir-alijonov/leethub/tree/master/0031-next-permutation) |
+| [1768-merge-strings-alternately](https://github.com/muhammadkodir-alijonov/leethub/tree/master/1768-merge-strings-alternately) |
 | [1972-rotating-the-box](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/1972-rotating-the-box) |
 | [2232-adding-spaces-to-a-string](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/2232-adding-spaces-to-a-string) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/0008-string-to-integer-atoi) |
 | [0049-group-anagrams](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/0049-group-anagrams) |
 | [0394-decode-string](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/0394-decode-string) |
+| [1768-merge-strings-alternately](https://github.com/muhammadkodir-alijonov/leethub/tree/master/1768-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/muhammadkodir-alijonov/leethub/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/muhammadkodir-alijonov/leethub/tree/master/2059-unique-length-3-palindromic-subsequences) |
