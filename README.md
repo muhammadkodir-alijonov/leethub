@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/0008-string-to-integer-atoi) |
 | [0049-group-anagrams](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/0049-group-anagrams) |
 | [0394-decode-string](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/0394-decode-string) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/muhammadkodir-alijonov/leethub/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/muhammadkodir-alijonov/leethub/tree/master/1768-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/muhammadkodir-alijonov/leethub/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/1920-determine-color-of-a-chessboard-square) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/muhammadkodir-alijonov/leethub/tree/master/0062-unique-paths) |
 | [0089-gray-code](https://github.com/muhammadkodir-alijonov/leethub/tree/master/0089-gray-code) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/muhammadkodir-alijonov/leethub/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/muhammadkodir-alijonov/leethub/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/muhammadkodir-alijonov/leethub/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/1920-determine-color-of-a-chessboard-square) |
 ## Tree
