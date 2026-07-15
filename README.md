@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/muhammadkodir-alijonov/leethub/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/muhammadkodir-alijonov/leethub/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/0049-group-anagrams) |
+| [0064-minimum-path-sum](https://github.com/muhammadkodir-alijonov/leethub/tree/master/0064-minimum-path-sum) |
 | [0134-gas-station](https://github.com/muhammadkodir-alijonov/leethub/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/0200-number-of-islands) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/muhammadkodir-alijonov/leethub/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/muhammadkodir-alijonov/leethub/tree/master/0289-game-of-life) |
 | [1972-rotating-the-box](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/1972-rotating-the-box) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/muhammadkodir-alijonov/leethub/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/muhammadkodir-alijonov/leethub/tree/master/0064-minimum-path-sum) |
 | [0338-counting-bits](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/0338-counting-bits) |
 | [2164-two-best-non-overlapping-events](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/2164-two-best-non-overlapping-events) |
 ## Bit Manipulation
