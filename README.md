@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/muhammadkodir-alijonov/leethub/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/muhammadkodir-alijonov/leethub/tree/master/0031-next-permutation) |
+| [0567-permutation-in-string](https://github.com/muhammadkodir-alijonov/leethub/tree/master/0567-permutation-in-string) |
 | [1768-merge-strings-alternately](https://github.com/muhammadkodir-alijonov/leethub/tree/master/1768-merge-strings-alternately) |
 | [1972-rotating-the-box](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/1972-rotating-the-box) |
 | [2232-adding-spaces-to-a-string](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/2232-adding-spaces-to-a-string) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/0008-string-to-integer-atoi) |
 | [0049-group-anagrams](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/0049-group-anagrams) |
 | [0394-decode-string](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/0394-decode-string) |
+| [0567-permutation-in-string](https://github.com/muhammadkodir-alijonov/leethub/tree/master/0567-permutation-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/muhammadkodir-alijonov/leethub/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/muhammadkodir-alijonov/leethub/tree/master/1768-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/muhammadkodir-alijonov/leethub/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/0049-group-anagrams) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/muhammadkodir-alijonov/leethub/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0525-contiguous-array](https://github.com/muhammadkodir-alijonov/leethub/tree/master/0525-contiguous-array) |
+| [0567-permutation-in-string](https://github.com/muhammadkodir-alijonov/leethub/tree/master/0567-permutation-in-string) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/muhammadkodir-alijonov/leethub/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/muhammadkodir-alijonov/leethub/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -274,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/muhammadkodir-alijonov/leethub/tree/master/0191-number-of-1-bits) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/muhammadkodir-alijonov/leethub/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
