@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/muhammadkodir-alijonov/leethub/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/muhammadkodir-alijonov/leethub/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/muhammadkodir-alijonov/leethub/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/muhammadkodir-alijonov/leethub/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/muhammadkodir-alijonov/leethub/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/mukhammadkodir-alijonov/leethub/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/muhammadkodir-alijonov/leethub/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/muhammadkodir-alijonov/leethub/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/muhammadkodir-alijonov/leethub/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/muhammadkodir-alijonov/leethub/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/muhammadkodir-alijonov/leethub/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/muhammadkodir-alijonov/leethub/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Union Find
 |  |
 | ------- |
